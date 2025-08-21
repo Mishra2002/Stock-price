@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorflow>=2.8
+xgboost
+fastapi
+uvicorn
+streamlit
+pyyaml
+scipy
