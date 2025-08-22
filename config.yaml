@@ -1,0 +1,8 @@
+model:
+  lstm_units: 64
+  window: 20
+  epochs: 20
+  batch_size: 16
+backtest:
+  capital: 10000
+  threshold: 0.0
